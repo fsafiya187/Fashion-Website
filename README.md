@@ -17,7 +17,7 @@ A modern and responsive fashion website template that allows users to explore ne
 
 ## Demo
 
-[Live Demo](#)
+[Live Demo](https://fsafiya187.github.io/Fashion-Website/)
 
 ## Technologies Used
 
@@ -43,7 +43,6 @@ A modern and responsive fashion website template that allows users to explore ne
 
 1. Clone the repository:
 
-```powershell
 git clone https://github.com/fsafiya187/Fashion-Website.git
 
 2.Navigate to the project directory:
